@@ -9,7 +9,7 @@ package time;
  *
  * @author boby computers
  */
-public class runner {
+public class Lab3A2runner {
     public static void main(String[]args){
         Time u = new Time();
         u.hr = 10;
